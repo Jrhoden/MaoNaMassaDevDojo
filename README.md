@@ -1,5 +1,3 @@
 #Adicionando um Readme
 
-Edição de teste pra mostrar pro wille
-
-teste da branch master
+teste da branch que deve ser exibido nas branchs de schutz
