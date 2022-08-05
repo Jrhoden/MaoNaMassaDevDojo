@@ -1,5 +1,3 @@
 #Adicionando um Readme
 
-Edição de teste pra mostrar pro wille
-
-teste da branch master
+ESSE É O TESTE QUE VAI DAR BOM, POR QUE AGORA TA TOP 1!
